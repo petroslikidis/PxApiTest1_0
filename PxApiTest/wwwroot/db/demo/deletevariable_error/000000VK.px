@@ -1,0 +1,63 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-1";
+LANGUAGE="sv";
+CREATION-DATE="20190212 10:52";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="000000VK";
+COPYRIGHT=NO;
+SUBJECT-CODE="BE";
+SUBJECT-AREA="Befolkning";
+TITLE="Folkmängd efter region, kön och år";
+CONTENTS="Folkmängd";
+STUB="region","kön";
+HEADING="år";
+CONTVARIABLE="tabellinnehåll";
+VALUES("region")="Blekinge","Öland","Halland","Småland";
+VALUES("kön")="män","kvinnor";
+VALUES("år")="2015","2016","2017";
+TIMEVAL("år")=TLIST(A1),"2015","2016","2017";
+CODES("region")="102","103","104","105";
+CODES("kön")="1","2";
+CODES("år")="2015","2016","2017";
+PRESTEXT("region")=2;
+PRESTEXT("år")=0;
+ELIMINATION("kön")=YES;
+UNITS="antal";
+LAST-UPDATED("Folkmängd")="20180321 11:00";
+STOCKFA("Folkmängd")="S";
+DAYADJ("Folkmängd")=NO;
+SEASADJ("Folkmängd")=NO;
+REFPERIOD("Folkmängd")="31 december respektive år";
+UNITS("Folkmängd")="antal";
+CONTACT("Folkmängd")="Tomas Johansson, Statistiska centralbyrån (SCB)# +46 010-479 64 26#tomas.johansson@scb.se##(SCB) Statistikservice, Statistiska centralbyrån (SCB)# +46 010-479 50 00#information@scb.se##";
+DATABASE="Statistikdatabasen 2.3";
+SOURCE="Statistiska centralbyrån (SCB)";
+INFOFILE="BE0101";
+NOTEX="Distrikt är en ny geografisk indelning av Sverige som utgörs av 2 523 områden och infördes i folkbokföringsdatabasen den 1 januari 2016 då folkbokföring inte längre sker på församling.  Distriktsindelningen utgår från en justerad version av den församlin"
+"gsindelning som gällde den 31 december 1999. Distriktsindelningen är stabil såtillvida att den inte kommer att ändras i framtiden. Distriktsgränserna behöver inte följa vare sig fastighets- eller kommungränser. Distrikt som ligger i mer än en kommun är r"
+"egistrerad på den kommun där större delen av befolkningen är folkbokförd.##För att få en uppfattning om var i geografin respektive distrikt är lokaliserat består de tre första positionerna av en landsdelskod samt en landskapskod. De tre sista positionern"
+"a består av ett löpnummer, unikt inom varje landskap.#I de fall där distriktsgränserna skär över landskapsgränser sätts den landskapskod som största delen av distriktets yta tillhör.#Koderna byggs alltså upp enligt följande:#Landsdel:    1-3 (Götaland, S"
+"vealand, Norrland)#Landskap:    01-25 (Landskapen kodsätts med numrering från sydväst mot nordost)#Distrikt:       001-453 (Distrikten kodsätts med löpnummer inom landskapen från sydväst mot nordost). Det högsta värdet beror på hur många distrikt som fin"
+"ns inom landskapet.##Ett antal personer har information om folkbokföringskommun men saknar information om distrikt.#Det är främst personer som är folkbokförda på de fiktiva fastigheterna "På kommunen skriven" eller "Utan känt hemvist".#Om samtliga distri"
+"kt i en kommun tillhör samma landskap antas att de som saknar uppgift om distrikt tillhör landskapet.#Om samtliga distrikt i kommunen ligger i samma landsdel antas att samtliga personer i kommunen tillhör samma landsdel.";
+NOTEX("region")="Befolkningsuppgifter för landskapen är framräknade med hjälp av distriktsindelningen. ";
+META-ID("kön")="Kön";
+DATASYMBOL1=".";
+DATASYMBOL2="..";
+DATASYMBOL3="..";
+DATASYMBOLSUM="*";
+DATASYMBOLNIL="-";
+DATANOTESUM="*";
+TABLEID="TAB4537";
+DATA=
+79473 80765 81283 
+76780 77688 78088 
+12634 12888 12918 
+12716 12958 12939 
+160539 163595 165879 
+161097 163498 165557 
+374476 381494 386243 
+367870 373041 376626 
+;

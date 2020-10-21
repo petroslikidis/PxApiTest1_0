@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\db\ssd\**" />
+    <Content Remove="wwwroot\db\ssd\**" />
+    <EmbeddedResource Remove="wwwroot\db\ssd\**" />
+    <None Remove="wwwroot\db\ssd\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="PCAxis.Query" Version="1.0.0-beta" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DbSource\DbSource.csproj" />
+    <ProjectReference Include="..\PxDatasource\PxDatasource.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

@@ -1,0 +1,117 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="iso-8859-1";
+LANGUAGE="en";
+CREATION-DATE="20150520 13:41";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="BE0101DJ";
+COPYRIGHT=NO;
+SUBJECT-CODE="BE";
+SUBJECT-AREA="Population";
+TITLE="Number of persons by household status, foreign/Swedish background, sex and year";
+CONTENTS="Number of persons";
+STUB="household status","foreign/Swedish background","sex";
+HEADING="year";
+VALUES("household status")="children","lone parents","living alone","persons in a consensual union","persons in marriage or registered partnership","not living alone,  other persons","no information","total";
+VALUES("foreign/Swedish background")="foreign born","born in Sweden with two foreign born parents","born in Sweden with one parent born in Sweden and one foreign born parent","born in Sweden with two parents born in Sweden";
+VALUES("sex")="men","women";
+VALUES("year")="2011","2012","2013","2014";
+TIMEVAL("year")=TLIST(A1),"2011","2012","2013","2014";
+CODES("household status")="ABarn","aensf","Aensm","Asamm","Agift","Abild","Aovri","Apers";
+CODES("foreign/Swedish background")="08","4","5","6";
+CODES("sex")="1","2";
+CODES("year")="2011","2012","2013","2014";
+PRESTEXT("year")=0;
+DOMAIN("household status")="TypeOfHoushold";
+DOMAIN("foreign/Swedish background")="Foreign background";
+DOMAIN("sex")="Sex";
+ELIMINATION("household status")="total";
+ELIMINATION("foreign/Swedish background")=YES;
+ELIMINATION("sex")=YES;
+LAST-UPDATED="20150319 09:30";
+STOCKFA="S";
+DAYADJ=NO;
+SEASADJ=NO;
+UNITS="number";
+REFPERIOD="31 Dec each year";
+CONTACT="Inge Göransson, Statistics Sweden# Phone: +46 019-17 61 75#Fax: +46 #e-mail: befolkning@scb.se#Linus Johansson, Statistics Sweden# Phone: +46 019-17 66 56#Fax: +46 #e-mail: linus.johansson@scb.se";
+DATABASE="Statistics database 2.3";
+SOURCE="Statistics Sweden";
+INFOFILE="BE0101";
+NOTEX("household status")="Household status shows the individual´s relationship to other persons in the household. A person who lives alone has the household situation Living alone.##A person is defined as a child, regardless of age, when it is included in a household with at leas"
+"t one of their parents.";
+META-ID("sex")="Kön";
+DATASYMBOL1=".";
+DATASYMBOL2="..";
+DATASYMBOL3="..";
+DATASYMBOLSUM="*";
+DATASYMBOLNIL="-";
+DATANOTESUM="*";
+TABLEID="TAB1534";
+DATA=
+101069 105231 113067 120885 
+86874 90743 97706 104915 
+144665 151318 157996 165981 
+131518 137520 143561 150519 
+146572 149564 152553 156403 
+131373 133754 136378 139441 
+939334 934092 929935 928709 
+821499 816205 811251 809354 
+13692 14447 15435 16479 
+67212 70233 74305 77898 
+2072 2201 2311 2459 
+8588 8847 9226 9527 
+5553 5810 6030 6184 
+18785 19142 19439 19763 
+58211 59263 60359 61291 
+162432 162570 161806 161640 
+99357 100935 103667 110384 
+111704 113540 116031 120641 
+17818 18269 18959 19752 
+12096 12703 13533 14461 
+46921 47537 48621 49989 
+35934 37015 38373 40069 
+578771 578880 580637 588022 
+669576 666910 666824 673049 
+82543 86358 90042 94222 
+87262 91194 94726 98880 
+18229 18576 19071 19788 
+17555 18010 18700 19455 
+46999 47889 48930 50414 
+48460 49114 50528 51963 
+527697 529916 537004 546535 
+522265 524524 531463 541097 
+266593 274690 282119 292567 
+293666 302223 310388 321493 
+24310 25317 26170 27296 
+28354 29487 30368 31590 
+68864 70366 71704 73383 
+71696 73234 74285 75722 
+1150663 1144955 1137188 1135105 
+1117356 1111254 1103084 1100668 
+86294 94713 102518 112027 
+53559 57851 61745 64412 
+7233 8072 8714 9275 
+5207 5638 6074 6619 
+13496 14342 14850 15062 
+10152 10863 11223 11428 
+117688 121725 123489 122808 
+105066 107145 108341 106888 
+45267 40929 41518 40909 
+32204 30169 30226 27839 
+6845 6851 7042 6548 
+5763 5927 5972 5385 
+11870 12058 12342 11023 
+10048 10406 10519 9469 
+98208 101601 102086 88740 
+89817 93767 94432 80930 
+694815 717303 748366 787473 
+732481 755953 785127 816078 
+221172 230604 240263 251099 
+209081 218132 227434 237556 
+340275 347566 355030 362458 
+326448 333528 340745 347855 
+3470572 3470432 3470698 3471210 
+3488011 3482375 3477201 3473626 
+;
