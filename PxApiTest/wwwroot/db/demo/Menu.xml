@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Menu>
   <Language lang="fi" default="false">
-    <MenuItem selection="Demo" sortCode="Demo">
+    <MenuItem selection="demo" sortCode="Demo">
       <Description></Description>
       <Text>Demo</Text>
       <TextShort></TextShort>
-      <MenuItem selection="Demo\multilanguage" sortCode="multilanguage">
+      <MenuItem selection="demo/multilanguage" sortCode="multilanguage">
         <Description></Description>
         <Text>multilanguage</Text>
         <TextShort></TextShort>
-        <Link selection="Demo\multilanguage\BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Väestönmuutokset muuttujina kunta, ikä, aika, tyypi ja sukupuoli</Text>
           <TextShort>BE0101F1</TextShort>
@@ -37,7 +37,7 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <Link selection="Demo\multilanguage\BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Väestönmuutokset muuttujina kunta, ikä, aika, tyypi ja sukupuoli</Text>
           <TextShort>BE0101F1</TextShort>
@@ -66,27 +66,27 @@
           <EndTime></EndTime>
         </Link>
       </MenuItem>
-      <MenuItem selection="Demo\nivå1" sortCode="nivå1">
+      <MenuItem selection="demo/nivå1" sortCode="nivå1">
         <Description></Description>
         <Text>nivå1</Text>
         <TextShort></TextShort>
-        <MenuItem selection="Demo\nivå1\nivå2" sortCode="nivå2">
+        <MenuItem selection="demo/nivå1/nivå2" sortCode="nivå2">
           <Description></Description>
           <Text>nivå2</Text>
           <TextShort></TextShort>
-          <MenuItem selection="Demo\nivå1\nivå2\nivå3" sortCode="nivå3">
+          <MenuItem selection="demo/nivå1/nivå2/nivå3" sortCode="nivå3">
             <Description></Description>
             <Text>nivå3</Text>
             <TextShort></TextShort>
-            <MenuItem selection="Demo\nivå1\nivå2\nivå3\Nivå4" sortCode="Nivå4">
+            <MenuItem selection="demo/nivå1/nivå2/nivå3/Nivå4" sortCode="Nivå4">
               <Description></Description>
               <Text>Nivå4</Text>
               <TextShort></TextShort>
-              <MenuItem selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage" sortCode="multilanguage">
+              <MenuItem selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage" sortCode="multilanguage">
                 <Description></Description>
                 <Text>multilanguage</Text>
                 <TextShort></TextShort>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Väestönmuutokset muuttujina kunta, ikä, aika, tyypi ja sukupuoli</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -114,7 +114,7 @@
                   <StartTime></StartTime>
                   <EndTime></EndTime>
                 </Link>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Väestönmuutokset muuttujina kunta, ikä, aika, tyypi ja sukupuoli</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -150,11 +150,11 @@
     </MenuItem>
   </Language>
   <Language lang="sv" default="true">
-    <MenuItem selection="Demo" sortCode="Demo">
+    <MenuItem selection="demo" sortCode="Demo">
       <Description></Description>
       <Text>Demo</Text>
       <TextShort></TextShort>
-      <Link selection="Demo\BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
+      <Link selection="demo/BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
         <Description>Flyttningar för Sverige, Stockholms län och några kommuner</Description>
         <Text>Flyttningar för Sverige, Stockholms län och några kommuner</Text>
         <TextShort>BE0101F1</TextShort>
@@ -182,11 +182,11 @@
         <StartTime></StartTime>
         <EndTime></EndTime>
       </Link>
-      <MenuItem selection="Demo\deletevariable_error" sortCode="deletevariable_error">
+      <MenuItem selection="demo/deletevariable_error" sortCode="deletevariable_error">
         <Description></Description>
         <Text>deletevariable_error</Text>
         <TextShort></TextShort>
-        <Link selection="Demo\deletevariable_error\BE0101A5 (2).px" sortCode="BE0101A5 (2)" type="PX" category="O" tableId="TAB2818" status="A">
+        <Link selection="demo/deletevariable_error/BE0101A5 (2).px" sortCode="BE0101A5 (2)" type="PX" category="O" tableId="TAB2818" status="A">
           <Description></Description>
           <Text>Medelfolkmängd (efter födelseår) efter region och år</Text>
           <TextShort>BE0101A5</TextShort>
@@ -206,11 +206,11 @@
           <EndTime></EndTime>
         </Link>
       </MenuItem>
-      <MenuItem selection="Demo\multilanguage" sortCode="multilanguage">
+      <MenuItem selection="demo/multilanguage" sortCode="multilanguage">
         <Description></Description>
         <Text>multilanguage</Text>
         <TextShort></TextShort>
-        <Link selection="Demo\multilanguage\BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
           <Description>Flyttningar för Sverige, Stockholms län och några kommuner</Description>
           <Text>Flyttningar för Sverige, Stockholms län och några kommuner</Text>
           <TextShort>BE0101F1</TextShort>
@@ -238,7 +238,7 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <Link selection="Demo\multilanguage\BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Flyttningar efter region, ålder, tid, typ och kön</Text>
           <TextShort>BE0101F1</TextShort>
@@ -266,7 +266,7 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <Link selection="Demo\multilanguage\BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Flyttningar efter region, ålder, tid, typ och kön</Text>
           <TextShort>BE0101F1</TextShort>
@@ -294,7 +294,7 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <Link selection="Demo\multilanguage\BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Flyttningar efter region, ålder, tid, typ och kön</Text>
           <TextShort>BE0101F1</TextShort>
@@ -323,27 +323,27 @@
           <EndTime></EndTime>
         </Link>
       </MenuItem>
-      <MenuItem selection="Demo\nivå1" sortCode="nivå1">
+      <MenuItem selection="demo/nivå1" sortCode="nivå1">
         <Description></Description>
         <Text>nivå1</Text>
         <TextShort></TextShort>
-        <MenuItem selection="Demo\nivå1\nivå2" sortCode="nivå2">
+        <MenuItem selection="demo/nivå1/nivå2" sortCode="nivå2">
           <Description></Description>
           <Text>nivå2</Text>
           <TextShort></TextShort>
-          <MenuItem selection="Demo\nivå1\nivå2\nivå3" sortCode="nivå3">
+          <MenuItem selection="demo/nivå1/nivå2/nivå3" sortCode="nivå3">
             <Description></Description>
             <Text>nivå3</Text>
             <TextShort></TextShort>
-            <MenuItem selection="Demo\nivå1\nivå2\nivå3\Nivå4" sortCode="Nivå4">
+            <MenuItem selection="demo/nivå1/nivå2/nivå3/Nivå4" sortCode="Nivå4">
               <Description></Description>
               <Text>Nivå4</Text>
               <TextShort></TextShort>
-              <MenuItem selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage" sortCode="multilanguage">
+              <MenuItem selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage" sortCode="multilanguage">
                 <Description></Description>
                 <Text>multilanguage</Text>
                 <TextShort></TextShort>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
                   <Description>Flyttningar för Sverige, Stockholms län och några kommuner</Description>
                   <Text>Flyttningar för Sverige, Stockholms län och några kommuner</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -371,7 +371,7 @@
                   <StartTime></StartTime>
                   <EndTime></EndTime>
                 </Link>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Flyttningar efter region, ålder, tid, typ och kön</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -399,7 +399,7 @@
                   <StartTime></StartTime>
                   <EndTime></EndTime>
                 </Link>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Flyttningar efter region, ålder, tid, typ och kön</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -427,7 +427,7 @@
                   <StartTime></StartTime>
                   <EndTime></EndTime>
                 </Link>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Flyttningar efter region, ålder, tid, typ och kön</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -463,11 +463,11 @@
     </MenuItem>
   </Language>
   <Language lang="en" default="false">
-    <MenuItem selection="Demo" sortCode="Demo">
+    <MenuItem selection="demo" sortCode="Demo">
       <Description></Description>
       <Text>Demo</Text>
       <TextShort></TextShort>
-      <Link selection="Demo\BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
+      <Link selection="demo/BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
         <Description>Migration for Sweden, Stockholm county and some municipalities</Description>
         <Text>Migration for Sweden, Stockholm county and some municipalities</Text>
         <TextShort>BE0101F1</TextShort>
@@ -495,11 +495,11 @@
         <StartTime></StartTime>
         <EndTime></EndTime>
       </Link>
-      <MenuItem selection="Demo\aggregations" sortCode="aggregations">
+      <MenuItem selection="demo/aggregations" sortCode="aggregations">
         <Description></Description>
         <Text>aggregations</Text>
         <TextShort></TextShort>
-        <Link selection="Demo\aggregations\BE0101D1.px" sortCode="BE0101D1" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/aggregations/BE0101D1.px" sortCode="BE0101D1" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Live births by region, maternal age, year and gender</Text>
           <TextShort>BE0101D1</TextShort>
@@ -525,11 +525,11 @@
           <EndTime></EndTime>
         </Link>
       </MenuItem>
-      <MenuItem selection="Demo\multilanguage" sortCode="multilanguage">
+      <MenuItem selection="demo/multilanguage" sortCode="multilanguage">
         <Description></Description>
         <Text>multilanguage</Text>
         <TextShort></TextShort>
-        <Link selection="Demo\multilanguage\BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
           <Description>Migration for Sweden, Stockholm county and some municipalities</Description>
           <Text>Migration for Sweden, Stockholm county and some municipalities</Text>
           <TextShort>BE0101F1</TextShort>
@@ -557,7 +557,7 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <Link selection="Demo\multilanguage\BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Migration by region, age, period, type and sex</Text>
           <TextShort>BE0101F1</TextShort>
@@ -585,7 +585,7 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <Link selection="Demo\multilanguage\BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Migration by region, age, period, type and sex</Text>
           <TextShort>BE0101F1</TextShort>
@@ -613,7 +613,7 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <Link selection="Demo\multilanguage\BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
+        <Link selection="demo/multilanguage/BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
           <Description></Description>
           <Text>Migration by region, age, period, type and sex</Text>
           <TextShort>BE0101F1</TextShort>
@@ -642,27 +642,27 @@
           <EndTime></EndTime>
         </Link>
       </MenuItem>
-      <MenuItem selection="Demo\nivå1" sortCode="nivå1">
+      <MenuItem selection="demo/nivå1" sortCode="nivå1">
         <Description></Description>
         <Text>nivå1</Text>
         <TextShort></TextShort>
-        <MenuItem selection="Demo\nivå1\nivå2" sortCode="nivå2">
+        <MenuItem selection="demo/nivå1/nivå2" sortCode="nivå2">
           <Description></Description>
           <Text>nivå2</Text>
           <TextShort></TextShort>
-          <MenuItem selection="Demo\nivå1\nivå2\nivå3" sortCode="nivå3">
+          <MenuItem selection="demo/nivå1/nivå2/nivå3" sortCode="nivå3">
             <Description></Description>
             <Text>nivå3</Text>
             <TextShort></TextShort>
-            <MenuItem selection="Demo\nivå1\nivå2\nivå3\Nivå4" sortCode="Nivå4">
+            <MenuItem selection="demo/nivå1/nivå2/nivå3/Nivå4" sortCode="Nivå4">
               <Description></Description>
               <Text>Nivå4</Text>
               <TextShort></TextShort>
-              <MenuItem selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage" sortCode="multilanguage">
+              <MenuItem selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage" sortCode="multilanguage">
                 <Description></Description>
                 <Text>multilanguage</Text>
                 <TextShort></TextShort>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1ensvdescdefault.px" sortCode="BE0101F1ensvdescdefault" type="PX" category="O" tableId="" status="A">
                   <Description>Migration for Sweden, Stockholm county and some municipalities</Description>
                   <Text>Migration for Sweden, Stockholm county and some municipalities</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -690,7 +690,7 @@
                   <StartTime></StartTime>
                   <EndTime></EndTime>
                 </Link>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvfiolikacelln.px" sortCode="BE0101F1langensvfiolikacelln" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Migration by region, age, period, type and sex</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -718,7 +718,7 @@
                   <StartTime></StartTime>
                   <EndTime></EndTime>
                 </Link>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvfiolikacelln2.px" sortCode="BE0101F1langensvfiolikacelln2" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Migration by region, age, period, type and sex</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -746,7 +746,7 @@
                   <StartTime></StartTime>
                   <EndTime></EndTime>
                 </Link>
-                <Link selection="Demo\nivå1\nivå2\nivå3\Nivå4\multilanguage\BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
+                <Link selection="demo/nivå1/nivå2/nivå3/Nivå4/multilanguage/BE0101F1langensvolikacelln.px" sortCode="BE0101F1langensvolikacelln" type="PX" category="O" tableId="" status="A">
                   <Description></Description>
                   <Text>Migration by region, age, period, type and sex</Text>
                   <TextShort>BE0101F1</TextShort>
@@ -779,11 +779,11 @@
           </MenuItem>
         </MenuItem>
       </MenuItem>
-      <MenuItem selection="Demo\Population projections" sortCode="Population projections">
+      <MenuItem selection="demo/Population projections" sortCode="Population projections">
         <Description></Description>
         <Text>Population projections</Text>
         <TextShort></TextShort>
-        <Link selection="Demo\Population projections\0000009B.px" sortCode="0000009B" type="PX" category="O" tableId="TAB4230" status="A">
+        <Link selection="demo/Population projections/0000009B.px" sortCode="0000009B" type="PX" category="O" tableId="TAB4230" status="A">
           <Description></Description>
           <Text>Death rate by sex, age and year</Text>
           <TextShort>0000009B</TextShort>
@@ -805,11 +805,11 @@
           <StartTime></StartTime>
           <EndTime></EndTime>
         </Link>
-        <MenuItem selection="Demo\Population projections\Latest assumptions" sortCode="Latest assumptions">
+        <MenuItem selection="demo/Population projections/Latest assumptions" sortCode="Latest assumptions">
           <Description></Description>
           <Text>Latest assumptions</Text>
           <TextShort></TextShort>
-          <Link selection="Demo\Population projections\Latest assumptions\0000009B.px" sortCode="0000009B" type="PX" category="O" tableId="TAB4230" status="A">
+          <Link selection="demo/Population projections/Latest assumptions/0000009B.px" sortCode="0000009B" type="PX" category="O" tableId="TAB4230" status="A">
             <Description></Description>
             <Text>Death rate by sex, age and year</Text>
             <TextShort>0000009B</TextShort>
@@ -831,7 +831,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population projections\Latest assumptions\0000009C.px" sortCode="0000009C" type="PX" category="O" tableId="TAB4231" status="A">
+          <Link selection="demo/Population projections/Latest assumptions/0000009C.px" sortCode="0000009C" type="PX" category="O" tableId="TAB4231" status="A">
             <Description></Description>
             <Text>Total fertility rate by year</Text>
             <TextShort>0000009C</TextShort>
@@ -848,11 +848,11 @@
             <EndTime></EndTime>
           </Link>
         </MenuItem>
-        <MenuItem selection="Demo\Population projections\Latest projections" sortCode="Latest projections">
+        <MenuItem selection="demo/Population projections/Latest projections" sortCode="Latest projections">
           <Description></Description>
           <Text>Latest projections</Text>
           <TextShort></TextShort>
-          <Link selection="Demo\Population projections\Latest projections\0000008J.px" sortCode="0000008J" type="PX" category="O" tableId="TAB4225" status="A">
+          <Link selection="demo/Population projections/Latest projections/0000008J.px" sortCode="0000008J" type="PX" category="O" tableId="TAB4225" status="A">
             <Description></Description>
             <Text>Current projection of population. Population size 31 Dec by age, sex and year</Text>
             <TextShort>0000008J</TextShort>
@@ -874,7 +874,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population projections\Latest projections\0000008V.px" sortCode="0000008V" type="PX" category="O" tableId="TAB4226" status="A">
+          <Link selection="demo/Population projections/Latest projections/0000008V.px" sortCode="0000008V" type="PX" category="O" tableId="TAB4226" status="A">
             <Description></Description>
             <Text>Population changes by country of birth, sex, age, observations and year</Text>
             <TextShort>0000008V</TextShort>
@@ -902,7 +902,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population projections\Latest projections\00000091.px" sortCode="00000091" type="PX" category="O" tableId="TAB4228" status="A">
+          <Link selection="demo/Population projections/Latest projections/00000091.px" sortCode="00000091" type="PX" category="O" tableId="TAB4228" status="A">
             <Description></Description>
             <Text>Population changes by observations and year</Text>
             <TextShort>00000091</TextShort>
@@ -923,15 +923,15 @@
           </Link>
         </MenuItem>
       </MenuItem>
-      <MenuItem selection="Demo\Population statistics" sortCode="Population statistics">
+      <MenuItem selection="demo/Population statistics" sortCode="Population statistics">
         <Description></Description>
         <Text>Population statistics</Text>
         <TextShort></TextShort>
-        <MenuItem selection="Demo\Population statistics\Average age" sortCode="Average age">
+        <MenuItem selection="demo/Population statistics/Average age" sortCode="Average age">
           <Description></Description>
           <Text>Average age</Text>
           <TextShort></TextShort>
-          <Link selection="Demo\Population statistics\Average age\BE0101G9.px" sortCode="BE0101G9" type="PX" category="O" tableId="TAB637" status="A">
+          <Link selection="demo/Population statistics/Average age/BE0101G9.px" sortCode="BE0101G9" type="PX" category="O" tableId="TAB637" status="A">
             <Description></Description>
             <Text>Average age of  the population by region, sex and year</Text>
             <TextShort>BE0101G9</TextShort>
@@ -954,11 +954,11 @@
             <EndTime></EndTime>
           </Link>
         </MenuItem>
-        <MenuItem selection="Demo\Population statistics\Deaths" sortCode="Deaths">
+        <MenuItem selection="demo/Population statistics/Deaths" sortCode="Deaths">
           <Description></Description>
           <Text>Deaths</Text>
           <TextShort></TextShort>
-          <Link selection="Demo\Population statistics\Deaths\BE0101D4.px" sortCode="BE0101D4" type="PX" category="O" tableId="TAB2823" status="A">
+          <Link selection="demo/Population statistics/Deaths/BE0101D4.px" sortCode="BE0101D4" type="PX" category="O" tableId="TAB2823" status="A">
             <Description></Description>
             <Text>Life expectancy by region, sex, observations and period</Text>
             <TextShort>BE0101D4</TextShort>
@@ -983,7 +983,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population statistics\Deaths\BE0101D8.px" sortCode="BE0101D8" type="PX" category="O" tableId="TAB959" status="A">
+          <Link selection="demo/Population statistics/Deaths/BE0101D8.px" sortCode="BE0101D8" type="PX" category="O" tableId="TAB959" status="A">
             <Description></Description>
             <Text>Deaths by region, age, sex and year</Text>
             <TextShort>BE0101D8</TextShort>
@@ -1009,11 +1009,11 @@
             <EndTime></EndTime>
           </Link>
         </MenuItem>
-        <MenuItem selection="Demo\Population statistics\Household" sortCode="Household">
+        <MenuItem selection="demo/Population statistics/Household" sortCode="Household">
           <Description></Description>
           <Text>Household</Text>
           <TextShort></TextShort>
-          <Link selection="Demo\Population statistics\Household\BE0101CM.px" sortCode="BE0101CM" type="PX" category="O" tableId="TAB1530" status="A">
+          <Link selection="demo/Population statistics/Household/BE0101CM.px" sortCode="BE0101CM" type="PX" category="O" tableId="TAB1530" status="A">
             <Description></Description>
             <Text>Number and percentage of persons and households by region, type of household, number of children, observations and year</Text>
             <TextShort>BE0101CM</TextShort>
@@ -1041,7 +1041,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population statistics\Household\BE0101CZ.px" sortCode="BE0101CZ" type="PX" category="O" tableId="TAB1531" status="A">
+          <Link selection="demo/Population statistics/Household/BE0101CZ.px" sortCode="BE0101CZ" type="PX" category="O" tableId="TAB1531" status="A">
             <Description></Description>
             <Text>Number and percentage of persons and households by region, household size, observations and year</Text>
             <TextShort>BE0101CZ</TextShort>
@@ -1066,7 +1066,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population statistics\Household\BE0101DJ.px" sortCode="BE0101DJ" type="PX" category="O" tableId="TAB1534" status="A">
+          <Link selection="demo/Population statistics/Household/BE0101DJ.px" sortCode="BE0101DJ" type="PX" category="O" tableId="TAB1534" status="A">
             <Description></Description>
             <Text>Number of persons by household status, foreign/Swedish background, sex and year</Text>
             <TextShort>BE0101DJ</TextShort>
@@ -1092,11 +1092,11 @@
             <EndTime></EndTime>
           </Link>
         </MenuItem>
-        <MenuItem selection="Demo\Population statistics\Number of inhabitants" sortCode="Number of inhabitants">
+        <MenuItem selection="demo/Population statistics/Number of inhabitants" sortCode="Number of inhabitants">
           <Description></Description>
           <Text>Number of inhabitants</Text>
           <TextShort></TextShort>
-          <Link selection="Demo\Population statistics\Number of inhabitants\BE0101A9.px" sortCode="BE0101A9" type="PX" category="O" tableId="TAB1267" status="A">
+          <Link selection="demo/Population statistics/Number of inhabitants/BE0101A9.px" sortCode="BE0101A9" type="PX" category="O" tableId="TAB1267" status="A">
             <Description></Description>
             <Text>Population 1 November by region, age, sex and year</Text>
             <TextShort>BE0101A9</TextShort>
@@ -1121,7 +1121,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population statistics\Number of inhabitants\BE0101E1.px" sortCode="BE0101E1" type="PX" category="O" tableId="TAB1265" status="A">
+          <Link selection="demo/Population statistics/Number of inhabitants/BE0101E1.px" sortCode="BE0101E1" type="PX" category="O" tableId="TAB1265" status="A">
             <Description></Description>
             <Text>Population by region and every fifth year</Text>
             <TextShort>BE0101E1</TextShort>
@@ -1140,7 +1140,7 @@
             <StartTime></StartTime>
             <EndTime></EndTime>
           </Link>
-          <Link selection="Demo\Population statistics\Number of inhabitants\BE0101N1.px" sortCode="BE0101N1" type="PX" category="O" tableId="TAB638" status="A">
+          <Link selection="demo/Population statistics/Number of inhabitants/BE0101N1.px" sortCode="BE0101N1" type="PX" category="O" tableId="TAB638" status="A">
             <Description></Description>
             <Text>Population by region, marital status, age, sex, observations and year</Text>
             <TextShort>BE0101N1</TextShort>
@@ -1172,11 +1172,11 @@
             <EndTime></EndTime>
           </Link>
         </MenuItem>
-        <MenuItem selection="Demo\Population statistics\Population density" sortCode="Population density">
+        <MenuItem selection="demo/Population statistics/Population density" sortCode="Population density">
           <Description></Description>
           <Text>Population density</Text>
           <TextShort></TextShort>
-          <Link selection="Demo\Population statistics\Population density\BE0101T2.px" sortCode="BE0101T2" type="PX" category="O" tableId="TAB733" status="A">
+          <Link selection="demo/Population statistics/Population density/BE0101T2.px" sortCode="BE0101T2" type="PX" category="O" tableId="TAB733" status="A">
             <Description></Description>
             <Text>Population density per sq. km by region and year</Text>
             <TextShort>BE0101T2</TextShort>
